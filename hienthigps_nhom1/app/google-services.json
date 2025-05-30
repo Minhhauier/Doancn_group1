@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "955638807544",
+    "firebase_url": "https://gpstracker-group1-default-rtdb.firebaseio.com",
+    "project_id": "gpstracker-group1",
+    "storage_bucket": "gpstracker-group1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955638807544:android:99e0487d6753c91372b40d",
+        "android_client_info": {
+          "package_name": "com.example.gpstracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtP_O2pUarcmhyNNBHHQvRgBFyMNcyN14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955638807544:android:c4eeb196de49337372b40d",
+        "android_client_info": {
+          "package_name": "com.example.hienthigps_nhom1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtP_O2pUarcmhyNNBHHQvRgBFyMNcyN14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
